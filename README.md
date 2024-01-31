@@ -18,3 +18,6 @@
   <details><summary>Записи лекций 3-4 модуль</summary>
   
   </details>
+  <details><summary>Записи консультаций</summary>
+  
+  </details>
