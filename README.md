@@ -15,3 +15,6 @@
   <details><summary>Записи семинаров</summary>
   
   </details>
+  <details><summary>Записи лекций 3-4 модуль</summary>
+  
+  </details>
