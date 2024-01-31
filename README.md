@@ -12,7 +12,8 @@
   
   </details>
   <details><summary>Записи лекций</summary>
-  
+    <li><a href="[https://disk.yandex.ru/i/-c3EjmIsdRua9Q](https://disk.yandex.ru/d/zl7DgU7FmuJKLg/%D0%A2%D0%B5%D0%BE%D1%80%D0%B8%D1%8F%20%D1%87%D0%B8%D1%81%D0%B5%D0%BB%20(%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B9%20%D0%BF%D0%BE%D1%82%D0%BE%D0%BA)/19_01_%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD.MP4)">2 Лекция (19.01.2024)</a></li>
+    <li><a href="[https://disk.yandex.ru/i/-c3EjmIsdRua9Q](https://disk.yandex.ru/d/zl7DgU7FmuJKLg/%D0%A2%D0%B5%D0%BE%D1%80%D0%B8%D1%8F%20%D1%87%D0%B8%D1%81%D0%B5%D0%BB%20(%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B9%20%D0%BF%D0%BE%D1%82%D0%BE%D0%BA)/26_01_%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD.MP4)">3 Лекция (26.01.2024)</a></li>
   </details>
 <h3>Мат.анализ</h3>
   <details><summary>Записи семинаров</summary>
