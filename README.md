@@ -11,6 +11,9 @@
   <details><summary>Записи семинаров</summary>
   
   </details>
+  <details><summary>Записи лекций</summary>
+  
+  </details>
 <h3>Мат.анализ</h3>
   <details><summary>Записи семинаров</summary>
   
