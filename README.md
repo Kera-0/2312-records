@@ -5,7 +5,7 @@
   </details>
 <h3>Линейная алгебра</h3>
   <details><summary>Записи семинаров 3-4 модуль</summary>
-    <li><a href="">4 Семинар (01.02.2024)</a></li>
+    <li><a href="https://disk.yandex.ru/i/4PtYqWyctnsMFg">4 Семинар (01.02.2024)</a></li>
   </details>
 <h3>Теория чисел</h3>
   <details><summary>Записи семинаров</summary>
