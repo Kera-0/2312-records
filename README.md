@@ -165,6 +165,7 @@ do {
 15) `a << c` это мы число a умножаем на 2 в степени с
 16) `&&` `||` - булевый оператор. 
 17) `&` `|` - битовый оператор.
+</details>
 <details><summary>Лекция 3</summary>
   
   ![](https://github.com/Kera-0/-lecture-notes/blob/main/32312.PNG)
