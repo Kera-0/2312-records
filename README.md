@@ -6,7 +6,7 @@
 <h3>Линейная алгебра и геометрия</h3>
   <details><summary>Записи семинаров 3-4 модуль</summary>
     <li><a href="https://disk.yandex.ru/i/4PtYqWyctnsMFg">4 Семинар (01.02.2024)</a></li>
-    <li><a href="https://disk.yandex.ru/i/N4c6_smq6V5Hlg">4 Семинар (01.02.2024)</a></li>
+    <li><a href="https://disk.yandex.ru/i/N4c6_smq6V5Hlg">Консультация по 4 семинару (06.02.2024)</a></li>
   </details>
 <h3>Теория чисел</h3>
   <details><summary>Записи семинаров</summary>
