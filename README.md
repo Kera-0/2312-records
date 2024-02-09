@@ -7,7 +7,7 @@
   <details><summary>Записи семинаров 3-4 модуль</summary>
     <li><a href="https://disk.yandex.ru/i/4PtYqWyctnsMFg">4 Семинар (01.02.2024)</a></li>
     <li><a href="https://disk.yandex.ru/i/N4c6_smq6V5Hlg">Консультация по 4 семинару (06.02.2024)</a></li>
-    <li><a href="https://disk.yandex.ru/client/disk?idApp=client&dialog=slider&idDialog=%2Fdisk%2FIMG_4343.mov">5 Семинар (08.02.2024)</a></li>
+    <li><a href="https://disk.yandex.ru/i/HznkrZpwFiYE4A">5 Семинар (08.02.2024)</a></li>
   </details>
 <h3>Теория чисел</h3>
   <details><summary>Записи семинаров</summary>
