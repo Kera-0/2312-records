@@ -20,7 +20,8 @@
   </details>
 <h3>Мат.анализ</h3>
   <details><summary>Записи семинаров</summary>
-    <li><a href="https://disk.yandex.ru/i/N6s9YHBnGMlS8A">4 Семинар (04.02.2024)</a></li>
+    <li><a href="https://disk.yandex.ru/i/N6s9YHBnGMlS8A">4 Семинар (03.02.2024)</a></li>
+    <li><a href="https://disk.yandex.ru/i/E9Z_9z5hM3avUw">5 Семинар (10.02.2024)</a></li>
   
   </details>
   <details><summary>Записи лекций 3-4 модуль</summary>
