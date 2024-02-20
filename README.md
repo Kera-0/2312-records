@@ -3,6 +3,7 @@
   <details><summary>Записи семинаров</summary>
   <li><a href="https://disk.yandex.ru/i/-c3EjmIsdRua9Q">17 Семинар (31.01.2024)</a></li>
   <li><a href="https://disk.yandex.ru/i/ckFal_4boKi4Rg">18 Семинар (07.02.2024)</a></li>
+    <li><a href="https://tinkoff.ktalk.ru/5giya2xpy64xe7p9x39o">19 Семинар (16.02.2024)</a></li>
   </details>
 <h3>Линейная алгебра и геометрия</h3>
   <details><summary>Записи семинаров 3-4 модуль</summary>
